@@ -1,4 +1,4 @@
-FROM corda/corda-zulu-4.0
+FROM corda/corda-zulu-4.1
 
 LABEL vendor="Chainstack"
 

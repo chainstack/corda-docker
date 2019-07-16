@@ -1,7 +1,7 @@
 # Corda node Docker image
 
 ## Version
-* Corda **4.0**
+* Corda **4.1**
 
 ## Configuration
 Node config file is generated via `config-gen`. Refs:
